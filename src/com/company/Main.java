@@ -10,7 +10,8 @@ public class Main {
             PrintWriter pw = new PrintWriter(file1);
             for (int i = 0; i <10 ; i++) {
                 pw.println("hello world"+i);
-                
+
+
 
             }
             pw.close();
